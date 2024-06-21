@@ -1,0 +1,6 @@
+name: snowflake-kernal
+channels:
+  - conda-forge
+dependencies:
+  - snowflake-connector-python
+
